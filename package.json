@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "burger app",
+  "main": "index.js",
+  "scripts": {
+    "test": "init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffpball/burger.git"
+  },
+  "keywords": [
+    "burger",
+    "app"
+  ],
+  "author": "Jeff Ball",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffpball/burger/issues"
+  },
+  "homepage": "https://github.com/jeffpball/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
