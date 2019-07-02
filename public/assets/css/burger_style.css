@@ -1,7 +1,28 @@
+#burger_img {
+  margin: auto;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #faebd7;
+}
+
+#header {
+  margin: 0px;
+  background: #ffcc88;
+  padding: 5px;
+  font-size: 25px;
+  font-weight: 8;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    
   }
   
   .label {
