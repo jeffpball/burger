@@ -1,1 +1,2 @@
 # burger
+The world famous Eat Da Burger! restaurant has created an App that allows customers to special order the burger of their dreams. If the Quincy House trained chefs are unable to meet customer's expectations, a full discount is issued in under 5 minutes. All jokes aside, this app showcases integrated UI to backend functionality. Thanks for your interest in my work.
